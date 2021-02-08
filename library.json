@@ -1,0 +1,12 @@
+{
+    "id": "{5363C129-7D33-5BB7-3ED4-C48BC543D142}",
+    "name": "KNX Domain Broadcast Flag Injector",
+    "author": "Andreas Hahn",
+    "url": "http://guthub.com/skyslasher/",
+    "compatibility": {
+        "version": "5.3"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

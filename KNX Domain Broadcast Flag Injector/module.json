@@ -1,0 +1,19 @@
+{
+    "id": "{5F7A3F6F-F98D-C8A7-5F60-448747A680B0}",
+    "name": "KNX Domain Broadcast Flag Injector",
+    "type": 2,
+    "vendor": "Andreas Hahn",
+    "aliases": [],
+    "parentRequirements": [
+        "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"
+    ],
+    "childRequirements": [
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "implemented": [
+        "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}",
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "prefix": "KNXDBFI",
+    "url": "http://guthub.com/skyslasher/"
+}
