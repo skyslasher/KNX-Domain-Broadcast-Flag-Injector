@@ -38,7 +38,7 @@
         {
             $InstanceID = $this->InstanceID;
             $ParentID = $this->GetParent();
-            if ((0 != $ParentID) && IPS_InstanceExists($ParentID)) {
+            if ((0 != $ParentID) && IPS_InstanceExists($ParentID) && (102 == $this->GetStatus())) {
                 IPS_SetConfiguration($InstanceID, IPS_GetConfiguration($ParentID));
             }
         }
